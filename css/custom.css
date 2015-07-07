@@ -13,3 +13,8 @@ File Description: Place here your custom CSS styles
 	height: 60px;
 	width: auto;
 }
+
+.fixed-header-on .header.fixed.animated #logo {
+	position: relative;
+	bottom: 3px;
+}
