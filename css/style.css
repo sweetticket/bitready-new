@@ -744,13 +744,13 @@ tbody {
 	position: relative;
 }
 .parallax-bg {
-	background: url("../images/parallax-bg.jpg") 50% 0px no-repeat;
+	background: url("../images/phone.jpg") 0% 0px no-repeat;
 }
 .parallax-bg-2 {
-	background: url("../images/parallax-bg-2.jpg") 50% 0px no-repeat;
+	background: url("../images/phone.jpg") 50% 0px no-repeat;
 }
 .parallax-bg-3 {
-	background: url("../images/parallax-bg-3.jpg") 50% 0px no-repeat;
+	background: url("../images/phone.jpg") 50% 0px no-repeat;
 }
 
 /* Custom Grid

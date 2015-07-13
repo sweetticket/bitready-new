@@ -18,3 +18,13 @@ File Description: Place here your custom CSS styles
 	position: relative;
 	bottom: 3px;
 }
+
+.parallax .title, .parallax p {
+	text-align: left;
+	width: 80%;
+}
+
+.features-section {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
